@@ -1,0 +1,13 @@
+.nav-class {
+    background:#fbb004
+}
+
+.nav-color {
+  color: white;
+  transition: font 0.3s ease
+}
+
+.nav-link:hover { 
+    color:#b36b00;
+    font-size: 32px
+}
